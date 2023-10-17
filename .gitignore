@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.apk
+
+# Remove CrashReportClient.ini files
+CrashReportClient.ini
+
+# readme file
+README.md
